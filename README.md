@@ -2,7 +2,7 @@
 
 A modern, interactive web application built with Streamlit that predicts life expectancy based on various health, economic, and social factors. The application uses machine learning to provide accurate predictions and presents them through an intuitive, data-rich interface with interactive visualizations.
 
-
+https://github.com/user-attachments/assets/d52ae849-e969-4cbd-8a22-93eeee762b24
 
 ## 🌟 Features
 
