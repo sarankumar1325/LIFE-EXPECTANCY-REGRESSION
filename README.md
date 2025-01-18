@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/d52ae849-e969-4cbd-8a22-93eeee762b24
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/life-expectancy-predictor.git
+git clone https://github.com/sarankumar1325/life-expectancy-predictor.git
 cd life-expectancy-predictor
 ```
 
@@ -75,7 +75,7 @@ life-expectancy-predictor/
 └── README.md              # Project documentation
 ```
 
-## 📋 Requirements
+## 🖋 Requirements
 
 - streamlit>=1.10.0
 - pandas>=1.3.0
@@ -111,7 +111,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## 🖍 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -124,13 +124,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@Sarankumar](https://twitter.com/yourusername)
+Saran Kumar.S - [GitHub](https://github.com/sarankumar1325) | [LinkedIn](https://www.linkedin.com/in/saran-kumar-s-sk13022005/) | [Medium](https://medium.com/@sarankumar1325)
 
-Project Link: [https://github.com/sarankumar1325/life-expectancy-predictor](https://github.com/yourusername/life-expectancy-predictor)
+Project Link: [https://github.com/sarankumar1325/life-expectancy-predictor](https://github.com/sarankumar1325/life-expectancy-predictor)
 
 ## ⭐ Support
 
 If you find this project useful, please consider giving it a star on GitHub!
 
 ---
-Made with ❤️ for better health predictions
+Made with dedication by Saran Kumar.S for better health predictions
