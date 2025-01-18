@@ -57,6 +57,9 @@ streamlit run app.py
 
 The application will open in your default web browser at `http://localhost:8501`.
 
+Alternatively, you can access the deployed web application here:
+[Streamlit Cloud Web App](https://life-expectancy-regression-ndsw9zfs7vnjmataxcwitz.streamlit.app/)
+
 ## 📦 Project Structure
 
 ```
